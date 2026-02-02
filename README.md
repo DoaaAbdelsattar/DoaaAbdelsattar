@@ -27,11 +27,6 @@
 ## 🏆 Competitive Programming
 [![Codeforces](https://img.shields.io/badge/Codeforces-Profile-005BBB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Doaa_Abdelsattar66)
 
----
-
-## 📊 GitHub Stats
-![stats](https://github-readme-stats.vercel.app/api?username=Doaa_Abdelsattar66&show_icons=true&hide_border=true)
-![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Doaa_Abdelsattar66&layout=compact&hide_border=true)
 
 ---
 
